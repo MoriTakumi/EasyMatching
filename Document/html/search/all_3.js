@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['fastthreshold_0',['fastThreshold',['../class_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect_threshold.html#a2dee8fe323b5b67e70dc44449b80f283',1,'OpenCVForUnity::EasyMatching::FeatureDetectThreshold']]],
+  ['featuredetect_1',['FeatureDetect',['../struct_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect.html#abcc07dbd6c1838d4bf68ee9d75849419',1,'OpenCVForUnity.EasyMatching.FeatureDetect.FeatureDetect(Mat img, FeatureDetectAlgorithm algorithm, FeatureDetectThreshold threshold)'],['../struct_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect.html#a12d73baa80264ab6b860c973c4fa93ae',1,'OpenCVForUnity.EasyMatching.FeatureDetect.FeatureDetect(Texture2D img, FeatureDetectAlgorithm algorithm, FeatureDetectThreshold threshold)'],['../struct_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect.html',1,'OpenCVForUnity.EasyMatching.FeatureDetect']]],
+  ['featuredetectalgorithm_2',['FeatureDetectAlgorithm',['../namespace_open_c_v_for_unity_1_1_easy_matching.html#a3b347ad55b0b939878fca9e8d8543e99',1,'OpenCVForUnity::EasyMatching']]],
+  ['featuredetectthreshold_3',['FeatureDetectThreshold',['../class_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect_threshold.html#ad541de73b5258bc22b944139477ae6b6',1,'OpenCVForUnity.EasyMatching.FeatureDetectThreshold.FeatureDetectThreshold()'],['../class_open_c_v_for_unity_1_1_easy_matching_1_1_feature_detect_threshold.html',1,'OpenCVForUnity.EasyMatching.FeatureDetectThreshold']]]
+];
